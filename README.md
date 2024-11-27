@@ -1,3 +1,3 @@
-# testpo1
+# execises CSK
 ##edit the file
-its a markdown file in this respository
+Project SpaceX study
